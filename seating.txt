@@ -1,0 +1,8 @@
+seats
+seat
+sat
+chair
+row
+column
+bend
+

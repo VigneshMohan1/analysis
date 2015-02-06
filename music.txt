@@ -1,0 +1,14 @@
+music
+video
+audio
+headphone
+speaker
+headset
+songs
+song
+play
+played
+playing
+hindi
+english
+tamil
